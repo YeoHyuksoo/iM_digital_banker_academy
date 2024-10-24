@@ -1,0 +1,515 @@
+	------------------------ 벅스 차트 2024.10.12 ------------------------
+ 순위   변동 / 유지                                 곡                     아티스트
+  1        4일                  UP (KARINA Solo)                    aespa
+  2     0변동없음                            Mantra              제니 (JENNIE)
+  3     0변동없음                           내 이름 맑음                     QWER
+  4     0변동없음                             HAPPY              DAY6 (데이식스)
+  5     0변동없음                         Supernova                    aespa
+  6     0변동없음                             녹아내려요              DAY6 (데이식스)
+  7     0변동없음               Welcome to the Show              DAY6 (데이식스)
+  8   1 계단 상승                      Supernatural                 NewJeans
+  9   2 계단 상승                     한 페이지가 될 수 있게              DAY6 (데이식스)
+ 10     0변동없음                        Supersonic                   프로미스나인
+ 11   3 계단 하락                              MEOW              MEOVV (미야오)
+ 12     0변동없음                         How Sweet                 NewJeans
+ 13     0변동없음                              고민중독                     QWER
+ 14     0변동없음                            Sticky             KISS OF LIFE
+ 15     0변동없음      Small girl (feat. 도경수(D.O.))                      이영지
+ 16   1 계단 상승                        Armageddon                    aespa
+ 17   1 계단 하락                               소나기           이클립스 (ECLIPSE)
+ 18   1 계단 상승                               예뻤어              DAY6 (데이식스)
+ 19   5 계단 상승                      클락션 (Klaxon)                  (여자)아이들
+ 20   1 계단 상승                  첫 만남은 계획대로 되지 않아                TWS (투어스)
+ 21   3 계단 하락                               SOS              FIFTY FIFTY
+ 22   1 계단 상승                   나는 아픈 건 딱 질색이니까                  (여자)아이들
+ 23   3 계단 하락                        Bubble Gum                 NewJeans
+ 24   2 계단 하락                          Magnetic               아일릿(ILLIT)
+ 25   3 계단 상승                     Love wins all                  아이유(IU)
+ 26   1 계단 하락                   별별별 (See that?)                    NMIXX
+ 27   1 계단 하락                               천상연                      이창섭
+ 28   1 계단 하락                         해야 (HEYA)                IVE (아이브)
+ 29     0변동없음                              에피소드                      이무진
+ 30   2 계단 상승                          Hype Boy                 NewJeans
+ 31   1 계단 하락                           그녀가 웃었다              DAY6 (데이식스)
+ 32   6 계단 상승                               밤양갱                 비비(BIBI)
+ 33     0변동없음                             Ditto                 NewJeans
+ 34   3 계단 하락               Love me or Leave me              DAY6 (데이식스)
+ 35     0변동없음                   Congratulations              DAY6 (데이식스)
+ 36   3 계단 상승                               ETA                 NewJeans
+ 37   4 계단 상승                              I AM                IVE (아이브)
+ 38   8 계단 상승                                 숲                      최유리
+ 39   4 계단 상승                      Cruel Summer   Taylor Swift(테일러 스위프트)
+ 40   4 계단 하락                           Gravity              FIFTY FIFTY
+ 41   9 계단 상승                      주저하는 연인들을 위해                      잔나비
+ 42   7 계단 상승 모든 날, 모든 순간 (Every day, Every Moment)             폴킴(Paul Kim)
+ 43   2 계단 상승                             To. X             태연 (TAEYEON)
+ 44   7 계단 하락                         Attention                 NewJeans
+ 45   1 계단 하락 그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))   너드커넥션(Nerd Connection)
+ 46   2 계단 상승                             CRAZY       LE SSERAFIM (르세라핌)
+ 47   4 계단 상승                             Touch                  KATSEYE
+ 48   9 계단 상승                 내가 S면 넌 나의 N이 되어줘                TWS (투어스)
+ 49   6 계단 상승              SPOT! (feat. JENNIE)                지코 (ZICO)
+ 50   3 계단 하락                          아직 거기 살아              DAY6 (데이식스)
+ 51   9 계단 하락                             태양물고기           윤하(Younha/ユンナ)
+ 52   4 계단 상승                      Live My Life                    aespa
+ 53  13 계단 하락                              청춘만화                      이무진
+ 54   1 계단 하락                            비의 랩소디                      임재현
+ 55   1 계단 하락                         Super Shy                 NewJeans
+ 56   5 계단 상승                          헤어지자 말해요                      박재정
+ 57   5 계단 하락                    Boom Boom Bass                    RIIZE
+ 58     0변동없음                          너의 모든 순간                      성시경
+ 59  43 계단 상승         어떻게 이별까지 사랑하겠어, 널 사랑하는 거지                 AKMU(악뮤)
+ 60     0변동없음                           사건의 지평선           윤하(Younha/ユンナ)
+ 61   2 계단 하락                                인사                       범진
+ 62   1 계단 상승                       미안해 미워해 사랑해                    Crush
+ 63  17 계단 상승                          Drowning                    WOODZ
+ 64  17 계단 상승      Steal The Show (From “엘리멘탈”)                Lauv(라우브)
+ 65     0변동없음                       LOVE ATTACK            RESCENE (리센느)
+ 66   4 계단 상승                         LOVE DIVE                IVE (아이브)
+ 67     0변동없음                   Girls Never Die          tripleS (트리플에스)
+ 68   2 계단 하락                              네모네모               YENA (최예나)
+ 69     0변동없음                         New Jeans                 NewJeans
+ 70   2 계단 하락                        After LIKE                IVE (아이브)
+ 71   1 계단 상승                            사랑인가 봐          멜로망스(MeloMance)
+ 72  10 계단 하락                            Cosmic        Red Velvet (레드벨벳)
+ 73   2 계단 하락                             Spicy                    aespa
+ 74   2 계단 상승                            SHEESH              BABYMONSTER
+ 75   1 계단 하락                            오래된 노래                       허각
+ 76  11 계단 상승                       Dangerously      Charlie Puth(찰리 푸스)
+ 77  43 계단 하락                    Electric Shock        강다니엘(KANG DANIEL)
+ 78  14 계단 하락                             Drama                    aespa
+ 79  12 계단 상승     I Don’t Think That I Like Her      Charlie Puth(찰리 푸스)
+ 80   7 계단 하락                 청혼하지 않을 이유를 못 찾았어                      이무진
+ 81   4 계단 하락                               OMG                 NewJeans
+ 82   7 계단 하락                            슬픈 초대장                 순순희 (지환)
+ 83     0변동없음                         Blue Moon           엔플라잉(N.Flying)
+ 84   2 계단 상승                            MANIAC              VIVIZ (비비지)
+ 85   7 계단 하락                      Get A Guitar                    RIIZE
+ 86   2 계단 하락                          Accendio                IVE (아이브)
+ 87   2 계단 하락                         사랑은 늘 도망가                      임영웅
+ 88   2 계단 상승  Seven (feat. Latto) - Clean Ver.                       정국
+ 89  10 계단 하락                    도와줘요 Rock&Roll              DAY6 (데이식스)
+ 90   5 계단 상승                                 꿈             태연 (TAEYEON)
+ 91   9 계단 하락                                괴물              DAY6 (데이식스)
+ 92     0변동없음                          Love Lee                 AKMU(악뮤)
+ 93   5 계단 하락                              그랬나봐               유회승 (엔플라잉)
+ 94     0변동없음                   Balloon in Love                       선미
+ 95   6 계단 하락                         Right Now                 NewJeans
+ 96  38 계단 상승                             NVKED            AB6IX (에이비식스)
+ 97   4 계단 하락                           COUNTER              DAY6 (데이식스)
+ 98     0변동없음                             위태로울걸                 오반(OVAN)
+ 99   1 계단 상승        네가 내 마음에 자리 잡았다 (Into You)           엔플라잉(N.Flying)
+100   1 계단 하락                            Kitsch                IVE (아이브)
+
+	------------------------ 벅스 차트 2024.10.13 ------------------------
+ 순위   변동 / 유지                                 곡                     아티스트
+  1   1 계단 상승                            Mantra              제니 (JENNIE)
+  2   1 계단 하락                  UP (KARINA Solo)                    aespa
+  3       HOT                              달랐을까                    PLAVE
+  4   1 계단 하락                           내 이름 맑음                     QWER
+  5   1 계단 하락                             HAPPY              DAY6 (데이식스)
+  6     0변동없음                             녹아내려요              DAY6 (데이식스)
+  7   2 계단 하락                         Supernova                    aespa
+  8   2 계단 상승                        Supersonic                   프로미스나인
+  9   2 계단 하락               Welcome to the Show              DAY6 (데이식스)
+ 10   2 계단 하락                      Supernatural                 NewJeans
+ 11   2 계단 하락                     한 페이지가 될 수 있게              DAY6 (데이식스)
+ 12   1 계단 상승                              고민중독                     QWER
+ 13   2 계단 하락                              MEOW              MEOVV (미야오)
+ 14   2 계단 하락                         How Sweet                 NewJeans
+ 15  44 계단 상승         어떻게 이별까지 사랑하겠어, 널 사랑하는 거지                 AKMU(악뮤)
+ 16   2 계단 하락                            Sticky             KISS OF LIFE
+ 17   1 계단 하락                        Armageddon                    aespa
+ 18   1 계단 하락                               소나기           이클립스 (ECLIPSE)
+ 19   2 계단 상승                               SOS              FIFTY FIFTY
+ 20   5 계단 하락      Small girl (feat. 도경수(D.O.))                      이영지
+ 21   3 계단 하락                               예뻤어              DAY6 (데이식스)
+ 22   2 계단 하락                  첫 만남은 계획대로 되지 않아                TWS (투어스)
+ 23   1 계단 하락                   나는 아픈 건 딱 질색이니까                  (여자)아이들
+ 24   1 계단 하락                        Bubble Gum                 NewJeans
+ 25   6 계단 하락                      클락션 (Klaxon)                  (여자)아이들
+ 26   2 계단 하락                          Magnetic               아일릿(ILLIT)
+ 27   2 계단 하락                     Love wins all                  아이유(IU)
+ 28   2 계단 하락                   별별별 (See that?)                    NMIXX
+ 29   1 계단 하락                         해야 (HEYA)                IVE (아이브)
+ 30   1 계단 상승                           그녀가 웃었다              DAY6 (데이식스)
+ 31   4 계단 하락                               천상연                      이창섭
+ 32   3 계단 하락                              에피소드                      이무진
+ 33  30 계단 상승                          Drowning                    WOODZ
+ 34     0변동없음               Love me or Leave me              DAY6 (데이식스)
+ 35     0변동없음                   Congratulations              DAY6 (데이식스)
+ 36   4 계단 상승                           Gravity              FIFTY FIFTY
+ 37   7 계단 하락                          Hype Boy                 NewJeans
+ 38  15 계단 상승                              청춘만화                      이무진
+ 39   7 계단 하락                               밤양갱                 비비(BIBI)
+ 40   4 계단 하락                               ETA                 NewJeans
+ 41   2 계단 하락                      Cruel Summer   Taylor Swift(테일러 스위프트)
+ 42   9 계단 하락                             Ditto                 NewJeans
+ 43   5 계단 하락                                 숲                      최유리
+ 44   3 계단 상승                             Touch                  KATSEYE
+ 45   6 계단 상승                             태양물고기           윤하(Younha/ユンナ)
+ 46   9 계단 하락                              I AM                IVE (아이브)
+ 47   3 계단 상승                          아직 거기 살아              DAY6 (데이식스)
+ 48   2 계단 하락                             CRAZY       LE SSERAFIM (르세라핌)
+ 49   4 계단 하락 그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))   너드커넥션(Nerd Connection)
+ 50   7 계단 하락                             To. X             태연 (TAEYEON)
+ 51  17 계단 상승                              네모네모               YENA (최예나)
+ 52  11 계단 하락                      주저하는 연인들을 위해                      잔나비
+ 53   5 계단 하락                 내가 S면 넌 나의 N이 되어줘                TWS (투어스)
+ 54  12 계단 하락 모든 날, 모든 순간 (Every day, Every Moment)             폴킴(Paul Kim)
+ 55  11 계단 하락                         Attention                 NewJeans
+ 56   2 계단 하락                            비의 랩소디                      임재현
+ 57     0변동없음                    Boom Boom Bass                    RIIZE
+ 58   6 계단 하락                      Live My Life                    aespa
+ 59  10 계단 하락              SPOT! (feat. JENNIE)                지코 (ZICO)
+ 60   2 계단 하락                          너의 모든 순간                      성시경
+ 61   1 계단 하락                           사건의 지평선           윤하(Younha/ユンナ)
+ 62   7 계단 하락                         Super Shy                 NewJeans
+ 63   7 계단 하락                          헤어지자 말해요                      박재정
+ 64   1 계단 상승                       LOVE ATTACK            RESCENE (리센느)
+ 65   4 계단 하락                                인사                       범진
+ 66   4 계단 하락                       미안해 미워해 사랑해                    Crush
+ 67  11 계단 상승                             Drama                    aespa
+ 68   2 계단 상승                        After LIKE                IVE (아이브)
+ 69     0변동없음                         New Jeans                 NewJeans
+ 70   2 계단 상승                            Cosmic        Red Velvet (레드벨벳)
+ 71   4 계단 하락                   Girls Never Die          tripleS (트리플에스)
+ 72   8 계단 상승                 청혼하지 않을 이유를 못 찾았어                      이무진
+ 73   9 계단 하락      Steal The Show (From “엘리멘탈”)                Lauv(라우브)
+ 74   1 계단 하락                             Spicy                    aespa
+ 75   7 계단 상승                            슬픈 초대장                 순순희 (지환)
+ 76  10 계단 하락                         LOVE DIVE                IVE (아이브)
+ 77   4 계단 상승                               OMG                 NewJeans
+ 78   4 계단 하락                            SHEESH              BABYMONSTER
+ 79   4 계단 하락                            오래된 노래                       허각
+ 80   9 계단 하락                            사랑인가 봐          멜로망스(MeloMance)
+ 81   5 계단 하락                       Dangerously      Charlie Puth(찰리 푸스)
+ 82   3 계단 상승                      Get A Guitar                    RIIZE
+ 83       재진입               Pump Up The Volume!                    PLAVE
+ 84   3 계단 상승                         사랑은 늘 도망가                      임영웅
+ 85   1 계단 상승                          Accendio                IVE (아이브)
+ 86   2 계단 상승  Seven (feat. Latto) - Clean Ver.                       정국
+ 87   4 계단 하락                         Blue Moon           엔플라잉(N.Flying)
+ 88   5 계단 상승                              그랬나봐               유회승 (엔플라잉)
+ 89   3 계단 상승                          Love Lee                 AKMU(악뮤)
+ 90   6 계단 하락                            MANIAC              VIVIZ (비비지)
+ 91  12 계단 하락     I Don’t Think That I Like Her      Charlie Puth(찰리 푸스)
+ 92   3 계단 하락                    도와줘요 Rock&Roll              DAY6 (데이식스)
+ 93   3 계단 하락                                 꿈             태연 (TAEYEON)
+ 94     0변동없음                   Balloon in Love                       선미
+ 95   4 계단 하락                                괴물              DAY6 (데이식스)
+ 96  10 계단 상승                   Pineapple Slice             백현(BAEKHYUN)
+ 97  20 계단 하락                    Electric Shock        강다니엘(KANG DANIEL)
+ 98   3 계단 하락                         Right Now                 NewJeans
+ 99   1 계단 하락                             위태로울걸                 오반(OVAN)
+100   3 계단 하락                           COUNTER              DAY6 (데이식스)
+
+	------------------------ 벅스 차트 2024.10.14 ------------------------
+ 순위   변동 / 유지                                 곡                     아티스트
+  1        2일                            Mantra              제니 (JENNIE)
+  2     0변동없음                  UP (KARINA Solo)                    aespa
+  3       HOT LOVE, MONEY, FAME (feat. DJ Khaled)           세븐틴(SEVENTEEN)
+  4     0변동없음                           내 이름 맑음                     QWER
+  5     0변동없음                             HAPPY              DAY6 (데이식스)
+  6     0변동없음                             녹아내려요              DAY6 (데이식스)
+  7     0변동없음                         Supernova                    aespa
+  8   1 계단 상승               Welcome to the Show              DAY6 (데이식스)
+  9   6 계단 하락                              달랐을까                    PLAVE
+ 10   3 계단 상승                              MEOW              MEOVV (미야오)
+ 11   3 계단 하락                        Supersonic                   프로미스나인
+ 12   2 계단 하락                      Supernatural                 NewJeans
+ 13   2 계단 상승         어떻게 이별까지 사랑하겠어, 널 사랑하는 거지                 AKMU(악뮤)
+ 14   2 계단 하락                              고민중독                     QWER
+ 15   4 계단 하락                     한 페이지가 될 수 있게              DAY6 (데이식스)
+ 16   2 계단 하락                         How Sweet                 NewJeans
+ 17   2 계단 상승                               SOS              FIFTY FIFTY
+ 18     0변동없음                               소나기           이클립스 (ECLIPSE)
+ 19   2 계단 하락                        Armageddon                    aespa
+ 20     0변동없음      Small girl (feat. 도경수(D.O.))                      이영지
+ 21   5 계단 하락                            Sticky             KISS OF LIFE
+ 22   1 계단 하락                               예뻤어              DAY6 (데이식스)
+ 23  10 계단 상승                          Drowning                    WOODZ
+ 24   1 계단 상승                      클락션 (Klaxon)                  (여자)아이들
+ 25   2 계단 하락                   나는 아픈 건 딱 질색이니까                  (여자)아이들
+ 26   2 계단 상승                   별별별 (See that?)                    NMIXX
+ 27   5 계단 하락                  첫 만남은 계획대로 되지 않아                TWS (투어스)
+ 28   2 계단 하락                          Magnetic               아일릿(ILLIT)
+ 29   7 계단 상승                           Gravity              FIFTY FIFTY
+ 30   6 계단 하락                        Bubble Gum                 NewJeans
+ 31   4 계단 하락                     Love wins all                  아이유(IU)
+ 32   1 계단 하락                               천상연                      이창섭
+ 33   3 계단 하락                           그녀가 웃었다              DAY6 (데이식스)
+ 34   2 계단 하락                              에피소드                      이무진
+ 35   6 계단 하락                         해야 (HEYA)                IVE (아이브)
+ 36       NEW                           1 TO 13           세븐틴(SEVENTEEN)
+ 37     0변동없음                          Hype Boy                 NewJeans
+ 38   4 계단 하락               Love me or Leave me              DAY6 (데이식스)
+ 39   4 계단 하락                   Congratulations              DAY6 (데이식스)
+ 40  11 계단 상승                              네모네모               YENA (최예나)
+ 41       NEW 그리운건 그대일까 그때일까 (A Sleepless Night)             씨엔블루(CNBLUE)
+ 42   4 계단 하락                              청춘만화                      이무진
+ 43   1 계단 하락                             Ditto                 NewJeans
+ 44       NEW                       Eyes on you           세븐틴(SEVENTEEN)
+ 45   2 계단 하락                                 숲                      최유리
+ 46   7 계단 하락                               밤양갱                 비비(BIBI)
+ 47   2 계단 하락                             태양물고기           윤하(Younha/ユンナ)
+ 48   1 계단 상승 그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))   너드커넥션(Nerd Connection)
+ 49   9 계단 하락                               ETA                 NewJeans
+ 50   2 계단 하락                             CRAZY       LE SSERAFIM (르세라핌)
+ 51   4 계단 하락                          아직 거기 살아              DAY6 (데이식스)
+ 52   8 계단 하락                             Touch                  KATSEYE
+ 53   7 계단 하락                              I AM                IVE (아이브)
+ 54   4 계단 하락                             To. X             태연 (TAEYEON)
+ 55     0변동없음                         Attention                 NewJeans
+ 56  15 계단 하락                      Cruel Summer   Taylor Swift(테일러 스위프트)
+ 57  40 계단 상승                    Electric Shock        강다니엘(KANG DANIEL)
+ 58   4 계단 하락 모든 날, 모든 순간 (Every day, Every Moment)             폴킴(Paul Kim)
+ 59   6 계단 하락                 내가 S면 넌 나의 N이 되어줘                TWS (투어스)
+ 60   8 계단 하락                      주저하는 연인들을 위해                      잔나비
+ 61   5 계단 하락                            비의 랩소디                      임재현
+ 62   4 계단 하락                      Live My Life                    aespa
+ 63   6 계단 하락                    Boom Boom Bass                    RIIZE
+ 64   2 계단 하락                         Super Shy                 NewJeans
+ 65       NEW                                사탕           세븐틴(SEVENTEEN)
+ 66   1 계단 하락                                인사                       범진
+ 67   4 계단 하락                          헤어지자 말해요                      박재정
+ 68   7 계단 하락                           사건의 지평선           윤하(Younha/ユンナ)
+ 69  10 계단 하락              SPOT! (feat. JENNIE)                지코 (ZICO)
+ 70  10 계단 하락                          너의 모든 순간                      성시경
+ 71   2 계단 하락                         New Jeans                 NewJeans
+ 72   1 계단 하락                   Girls Never Die          tripleS (트리플에스)
+ 73   9 계단 하락                       LOVE ATTACK            RESCENE (리센느)
+ 74   8 계단 하락                       미안해 미워해 사랑해                    Crush
+ 75   3 계단 하락                 청혼하지 않을 이유를 못 찾았어                      이무진
+ 76   6 계단 하락                            Cosmic        Red Velvet (레드벨벳)
+ 77  10 계단 하락                             Drama                    aespa
+ 78   1 계단 상승                            오래된 노래                       허각
+ 79   4 계단 하락                            슬픈 초대장                 순순희 (지환)
+ 80   6 계단 하락                             Spicy                    aespa
+ 81   1 계단 하락                            사랑인가 봐          멜로망스(MeloMance)
+ 82       NEW                              Rain           세븐틴(SEVENTEEN)
+ 83   6 계단 하락                               OMG                 NewJeans
+ 84  11 계단 하락      Steal The Show (From “엘리멘탈”)                Lauv(라우브)
+ 85   3 계단 하락                      Get A Guitar                    RIIZE
+ 86  18 계단 하락                        After LIKE                IVE (아이브)
+ 87  11 계단 하락                         LOVE DIVE                IVE (아이브)
+ 88   7 계단 하락                       Dangerously      Charlie Puth(찰리 푸스)
+ 89   6 계단 상승                                괴물              DAY6 (데이식스)
+ 90  12 계단 하락                            SHEESH              BABYMONSTER
+ 91   1 계단 상승                    도와줘요 Rock&Roll              DAY6 (데이식스)
+ 92   4 계단 하락                              그랬나봐               유회승 (엔플라잉)
+ 93   6 계단 하락                         Blue Moon           엔플라잉(N.Flying)
+ 94   8 계단 하락  Seven (feat. Latto) - Clean Ver.                       정국
+ 95  10 계단 하락                          Accendio                IVE (아이브)
+ 96       NEW                             Water           세븐틴(SEVENTEEN)
+ 97   1 계단 하락                   Pineapple Slice             백현(BAEKHYUN)
+ 98   9 계단 하락                          Love Lee                 AKMU(악뮤)
+ 99   9 계단 하락                            MANIAC              VIVIZ (비비지)
+100   2 계단 하락                         Right Now                 NewJeans
+
+	------------------------ 벅스 차트 2024.10.15 ------------------------
+ 순위   변동 / 유지                                 곡                     아티스트
+  1        3일                            Mantra              제니 (JENNIE)
+  2     0변동없음                  UP (KARINA Solo)                    aespa
+  3     0변동없음 LOVE, MONEY, FAME (feat. DJ Khaled)           세븐틴(SEVENTEEN)
+  4     0변동없음                           내 이름 맑음                     QWER
+  5     0변동없음                             HAPPY              DAY6 (데이식스)
+  6     0변동없음                             녹아내려요              DAY6 (데이식스)
+  7     0변동없음                         Supernova                    aespa
+  8     0변동없음               Welcome to the Show              DAY6 (데이식스)
+  9   2 계단 상승                        Supersonic                   프로미스나인
+ 10   2 계단 상승                      Supernatural                 NewJeans
+ 11   2 계단 상승         어떻게 이별까지 사랑하겠어, 널 사랑하는 거지                 AKMU(악뮤)
+ 12   2 계단 하락                              MEOW              MEOVV (미야오)
+ 13   2 계단 상승                     한 페이지가 될 수 있게              DAY6 (데이식스)
+ 14     0변동없음                              고민중독                     QWER
+ 15   6 계단 하락                              달랐을까                    PLAVE
+ 16     0변동없음                         How Sweet                 NewJeans
+ 17   1 계단 상승                               소나기           이클립스 (ECLIPSE)
+ 18   1 계단 상승                        Armageddon                    aespa
+ 19   1 계단 상승      Small girl (feat. 도경수(D.O.))                      이영지
+ 20   3 계단 하락                               SOS              FIFTY FIFTY
+ 21   1 계단 상승                               예뻤어              DAY6 (데이식스)
+ 22   1 계단 하락                            Sticky             KISS OF LIFE
+ 23     0변동없음                          Drowning                    WOODZ
+ 24   6 계단 상승                        Bubble Gum                 NewJeans
+ 25  44 계단 상승              SPOT! (feat. JENNIE)                지코 (ZICO)
+ 26   2 계단 하락                      클락션 (Klaxon)                  (여자)아이들
+ 27   2 계단 하락                   나는 아픈 건 딱 질색이니까                  (여자)아이들
+ 28   1 계단 하락                  첫 만남은 계획대로 되지 않아                TWS (투어스)
+ 29   3 계단 하락                   별별별 (See that?)                    NMIXX
+ 30   2 계단 하락                          Magnetic               아일릿(ILLIT)
+ 31     0변동없음                     Love wins all                  아이유(IU)
+ 32   3 계단 하락                           Gravity              FIFTY FIFTY
+ 33   1 계단 하락                               천상연                      이창섭
+ 34   6 계단 상승                              네모네모               YENA (최예나)
+ 35   1 계단 하락                              에피소드                      이무진
+ 36   3 계단 하락                           그녀가 웃었다              DAY6 (데이식스)
+ 37   1 계단 상승               Love me or Leave me              DAY6 (데이식스)
+ 38       NEW                          Get Loud             KISS OF LIFE
+ 39   2 계단 하락                          Hype Boy                 NewJeans
+ 40   5 계단 하락                         해야 (HEYA)                IVE (아이브)
+ 41   2 계단 하락                   Congratulations              DAY6 (데이식스)
+ 42   1 계단 상승                             Ditto                 NewJeans
+ 43   1 계단 하락                              청춘만화                      이무진
+ 44  12 계단 상승                      Cruel Summer   Taylor Swift(테일러 스위프트)
+ 45   1 계단 상승                               밤양갱                 비비(BIBI)
+ 46   2 계단 상승 그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))   너드커넥션(Nerd Connection)
+ 47   6 계단 상승                              I AM                IVE (아이브)
+ 48   4 계단 상승                             Touch                  KATSEYE
+ 49     0변동없음                               ETA                 NewJeans
+ 50   5 계단 하락                                 숲                      최유리
+ 51     0변동없음                          아직 거기 살아              DAY6 (데이식스)
+ 52   2 계단 상승                             To. X             태연 (TAEYEON)
+ 53   6 계단 하락                             태양물고기           윤하(Younha/ユンナ)
+ 54   9 계단 상승                    Boom Boom Bass                    RIIZE
+ 55     0변동없음                         Attention                 NewJeans
+ 56   2 계단 상승 모든 날, 모든 순간 (Every day, Every Moment)             폴킴(Paul Kim)
+ 57   7 계단 하락                             CRAZY       LE SSERAFIM (르세라핌)
+ 58   1 계단 하락                    Electric Shock        강다니엘(KANG DANIEL)
+ 59   1 계단 상승                      주저하는 연인들을 위해                      잔나비
+ 60   1 계단 상승                            비의 랩소디                      임재현
+ 61   2 계단 하락                 내가 S면 넌 나의 N이 되어줘                TWS (투어스)
+ 62     0변동없음                      Live My Life                    aespa
+ 63   1 계단 상승                         Super Shy                 NewJeans
+ 64  23 계단 하락 그리운건 그대일까 그때일까 (A Sleepless Night)             씨엔블루(CNBLUE)
+ 65   5 계단 상승                          너의 모든 순간                      성시경
+ 66       NEW               Bones (Prod. Czaer)              태민 (TAEMIN)
+ 67   1 계단 하락                                인사                       범진
+ 68   1 계단 하락                          헤어지자 말해요                      박재정
+ 69   5 계단 상승                       미안해 미워해 사랑해                    Crush
+ 70   9 계단 상승                            슬픈 초대장                 순순희 (지환)
+ 71   3 계단 하락                           사건의 지평선           윤하(Younha/ユンナ)
+ 72     0변동없음                   Girls Never Die          tripleS (트리플에스)
+ 73   4 계단 상승                             Drama                    aespa
+ 74  10 계단 상승      Steal The Show (From “엘리멘탈”)                Lauv(라우브)
+ 75   3 계단 상승                            오래된 노래                       허각
+ 76     0변동없음                            Cosmic        Red Velvet (레드벨벳)
+ 77   4 계단 상승                            사랑인가 봐          멜로망스(MeloMance)
+ 78   5 계단 하락                       LOVE ATTACK            RESCENE (리센느)
+ 79   4 계단 하락                 청혼하지 않을 이유를 못 찾았어                      이무진
+ 80   6 계단 상승                        After LIKE                IVE (아이브)
+ 81   1 계단 하락                             Spicy                    aespa
+ 82   1 계단 상승                               OMG                 NewJeans
+ 83  12 계단 하락                         New Jeans                 NewJeans
+ 84   1 계단 상승                      Get A Guitar                    RIIZE
+ 85   2 계단 상승                         LOVE DIVE                IVE (아이브)
+ 86   2 계단 상승                       Dangerously      Charlie Puth(찰리 푸스)
+ 87   3 계단 상승                            SHEESH              BABYMONSTER
+ 88   6 계단 상승  Seven (feat. Latto) - Clean Ver.                       정국
+ 89   4 계단 상승                         Blue Moon           엔플라잉(N.Flying)
+ 90   1 계단 하락                                괴물              DAY6 (데이식스)
+ 91  10 계단 상승                         사랑은 늘 도망가                      임영웅
+ 92     0변동없음                              그랬나봐               유회승 (엔플라잉)
+ 93   6 계단 상승                            MANIAC              VIVIZ (비비지)
+ 94       NEW                              GOLD                ITZY (있지)
+ 95   4 계단 하락                    도와줘요 Rock&Roll              DAY6 (데이식스)
+ 96   2 계단 상승                          Love Lee                 AKMU(악뮤)
+ 97  61 계단 하락                           1 TO 13           세븐틴(SEVENTEEN)
+ 98   3 계단 하락                          Accendio                IVE (아이브)
+ 99  55 계단 하락                       Eyes on you           세븐틴(SEVENTEEN)
+100   3 계단 하락                   Pineapple Slice             백현(BAEKHYUN)
+
+	------------------------ 벅스 차트 2024.10.16 ------------------------
+ 순위   변동 / 유지                                 곡                     아티스트
+  1        4일                            Mantra              제니 (JENNIE)
+  2     0변동없음                  UP (KARINA Solo)                    aespa
+  3     0변동없음 LOVE, MONEY, FAME (feat. DJ Khaled)           세븐틴(SEVENTEEN)
+  4     0변동없음                           내 이름 맑음                     QWER
+  5     0변동없음                             HAPPY              DAY6 (데이식스)
+  6     0변동없음                             녹아내려요              DAY6 (데이식스)
+  7     0변동없음                         Supernova                    aespa
+  8       HOT                  내게 사랑이 뭐냐고 물어본다면                      로이킴
+  9   1 계단 하락               Welcome to the Show              DAY6 (데이식스)
+ 10   1 계단 하락                        Supersonic                   프로미스나인
+ 11   1 계단 하락                      Supernatural                 NewJeans
+ 12     0변동없음                              MEOW              MEOVV (미야오)
+ 13   2 계단 하락         어떻게 이별까지 사랑하겠어, 널 사랑하는 거지                 AKMU(악뮤)
+ 14   1 계단 상승                              달랐을까                    PLAVE
+ 15   2 계단 하락                     한 페이지가 될 수 있게              DAY6 (데이식스)
+ 16   2 계단 하락                              고민중독                     QWER
+ 17   1 계단 하락                         How Sweet                 NewJeans
+ 18     0변동없음                        Armageddon                    aespa
+ 19   4 계단 상승                          Drowning                    WOODZ
+ 20   2 계단 상승                            Sticky             KISS OF LIFE
+ 21   4 계단 하락                               소나기           이클립스 (ECLIPSE)
+ 22   3 계단 하락      Small girl (feat. 도경수(D.O.))                      이영지
+ 23   3 계단 하락                               SOS              FIFTY FIFTY
+ 24   3 계단 하락                               예뻤어              DAY6 (데이식스)
+ 25   1 계단 상승                      클락션 (Klaxon)                  (여자)아이들
+ 26   2 계단 하락                        Bubble Gum                 NewJeans
+ 27     0변동없음                   나는 아픈 건 딱 질색이니까                  (여자)아이들
+ 28     0변동없음                  첫 만남은 계획대로 되지 않아                TWS (투어스)
+ 29   1 계단 상승                          Magnetic               아일릿(ILLIT)
+ 30   1 계단 상승                     Love wins all                  아이유(IU)
+ 31   3 계단 상승                              네모네모               YENA (최예나)
+ 32   3 계단 하락                   별별별 (See that?)                    NMIXX
+ 33   1 계단 하락                           Gravity              FIFTY FIFTY
+ 34   1 계단 하락                               천상연                      이창섭
+ 35   1 계단 상승                           그녀가 웃었다              DAY6 (데이식스)
+ 36   4 계단 상승                         해야 (HEYA)                IVE (아이브)
+ 37   2 계단 하락                              에피소드                      이무진
+ 38   1 계단 상승                          Hype Boy                 NewJeans
+ 39   2 계단 하락               Love me or Leave me              DAY6 (데이식스)
+ 40   1 계단 상승                   Congratulations              DAY6 (데이식스)
+ 41   2 계단 상승                              청춘만화                      이무진
+ 42     0변동없음                             Ditto                 NewJeans
+ 43   7 계단 상승                                 숲                      최유리
+ 44   4 계단 상승                             Touch                  KATSEYE
+ 45   4 계단 상승                               ETA                 NewJeans
+ 46     0변동없음 그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))   너드커넥션(Nerd Connection)
+ 47   3 계단 하락                      Cruel Summer   Taylor Swift(테일러 스위프트)
+ 48   1 계단 하락                              I AM                IVE (아이브)
+ 49   2 계단 상승                          아직 거기 살아              DAY6 (데이식스)
+ 50   6 계단 상승 모든 날, 모든 순간 (Every day, Every Moment)             폴킴(Paul Kim)
+ 51   4 계단 상승                         Attention                 NewJeans
+ 52   1 계단 상승                             태양물고기           윤하(Younha/ユンナ)
+ 53   4 계단 상승                             CRAZY       LE SSERAFIM (르세라핌)
+ 54   9 계단 하락                               밤양갱                 비비(BIBI)
+ 55   3 계단 하락                             To. X             태연 (TAEYEON)
+ 56   6 계단 상승                      Live My Life                    aespa
+ 57       NEW            To Heaven (천국으로 보낸 편지)                       허각
+ 58   4 계단 하락                    Boom Boom Bass                    RIIZE
+ 59  34 계단 하락              SPOT! (feat. JENNIE)                지코 (ZICO)
+ 60   1 계단 하락                      주저하는 연인들을 위해                      잔나비
+ 61   1 계단 하락                            비의 랩소디                      임재현
+ 62   1 계단 하락                 내가 S면 넌 나의 N이 되어줘                TWS (투어스)
+ 63   5 계단 상승                          헤어지자 말해요                      박재정
+ 64   1 계단 하락                         Super Shy                 NewJeans
+ 65     0변동없음                          너의 모든 순간                      성시경
+ 66   5 계단 상승                           사건의 지평선           윤하(Younha/ユンナ)
+ 67     0변동없음                                인사                       범진
+ 68  13 계단 상승                             Spicy                    aespa
+ 69   1 계단 상승                            슬픈 초대장                 순순희 (지환)
+ 70   6 계단 하락 그리운건 그대일까 그때일까 (A Sleepless Night)             씨엔블루(CNBLUE)
+ 71   2 계단 상승                             Drama                    aespa
+ 72   3 계단 하락                       미안해 미워해 사랑해                    Crush
+ 73  35 계단 하락                          Get Loud             KISS OF LIFE
+ 74   9 계단 상승                         New Jeans                 NewJeans
+ 75   3 계단 하락                   Girls Never Die          tripleS (트리플에스)
+ 76  18 계단 하락                    Electric Shock        강다니엘(KANG DANIEL)
+ 77   3 계단 상승                        After LIKE                IVE (아이브)
+ 78   2 계단 하락                            Cosmic        Red Velvet (레드벨벳)
+ 79   5 계단 하락      Steal The Show (From “엘리멘탈”)                Lauv(라우브)
+ 80   4 계단 상승                      Get A Guitar                    RIIZE
+ 81   1 계단 상승                               OMG                 NewJeans
+ 82   7 계단 하락                            오래된 노래                       허각
+ 83   6 계단 하락                            사랑인가 봐          멜로망스(MeloMance)
+ 84   3 계단 상승                            SHEESH              BABYMONSTER
+ 85     0변동없음                         LOVE DIVE                IVE (아이브)
+ 86   8 계단 하락                       LOVE ATTACK            RESCENE (리센느)
+ 87   1 계단 하락                       Dangerously      Charlie Puth(찰리 푸스)
+ 88   9 계단 하락                 청혼하지 않을 이유를 못 찾았어                      이무진
+ 89   1 계단 상승                                괴물              DAY6 (데이식스)
+ 90   5 계단 상승                    도와줘요 Rock&Roll              DAY6 (데이식스)
+ 91   2 계단 하락                         Blue Moon           엔플라잉(N.Flying)
+ 92   1 계단 하락                         사랑은 늘 도망가                      임영웅
+ 93   1 계단 하락                              그랬나봐               유회승 (엔플라잉)
+ 94   1 계단 하락                            MANIAC              VIVIZ (비비지)
+ 95   7 계단 하락  Seven (feat. Latto) - Clean Ver.                       정국
+ 96   6 계단 상승                         Right Now                 NewJeans
+ 97   1 계단 상승                          Accendio                IVE (아이브)
+ 98   2 계단 하락                          Love Lee                 AKMU(악뮤)
+ 99   4 계단 상승                   Balloon in Love                       선미
+100   5 계단 상승     I Don’t Think That I Like Her      Charlie Puth(찰리 푸스)
+
