@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script>
+        var log = function(s) {
+            document.getElementById("output").textContent += (s + "\n");
+        }
+
+        window.onload = function() {
+            document.getElementById("send_button").onclick = function() {
+                var input = document.getElementById("input").value;
+                var jsonData = {
+    				"query" : input
+    			};
+
+    			$.ajax({
+                    url: "http://127.0.0.1:5000/query/WEB",
+                    data: JSON.stringify(jsonData),
+                    type: "POST",
+                    async: true,
+                    dataType: "JSON",
+                    contentType: "application/json; charset=utf-8",
+
+                    success: function(response) {
+                        log("[요청] : " + input);
+                        console.log(response["Answer"]);
+                        console.log("[response] : " + JSON.stringify(response));
+                        var res = response["Answer"]
+                        log("[응답] : " + res);
+                    },
+
+                    error: function(xhr) {
+                        console.log("");
+                        console.log("[requestPostBodyJson] : [error] : " + JSON.stringify(xhr));
+                        console.log("");
+                    }
+                });
+            }
+        }
+    </script>
+</head>
+<body>
+<textarea id="output" readonly rows="30" cols="80"></textarea>
+<p/>
+<input type="text" id="input" placeholder="input message..."><button id="send_button">입력</button>
+
+</body>
+</html>
